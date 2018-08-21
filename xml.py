@@ -11,7 +11,7 @@ import os
 class xml:
     
     def init(self,
-            path     = "C:/Users/Jocker/Desktop",
+            path     = "C:/Users/Jocker/Deskto",
             file     = "test.xml", 
             ):
         
